@@ -18,3 +18,9 @@ console.log(cidade === inputMinusculo)
 const senha = 'mariana0511'
 
 console.log(senha.length)
+
+const soma = 10 + 10
+const mulpicacao = 10 * 10
+const operacao = soma + mulpicacao + 10
+
+console.log(operacao)
