@@ -15,7 +15,7 @@ const inputMinusculo = input.toLowerCase()
 
 console.log(cidade === inputMinusculo)
 
-const senha = 'mariana0511'
+const senha = 'ceu1020'
 
 console.log(senha.length)
 
